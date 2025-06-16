@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I'm a software engineer with a passion for Science and Natural Language Processing<br>
-📫 shoot me on Email or add me on linkedin
+# 💫 About Me:
+🚀 Aspiring Software Engineer aiming for a role at Google (SDE)<br>
+🧠 Currently deepening my knowledge in Python, Data Structures & Algorithms, and System Design<br>
+💻 Passionate about solving real-world problems with clean, scalable code<br>
+📚 Learning in public – building projects and sharpening problem-solving skills on LeetCode and GitHub<br>
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/farzan-ekram07) | [Email me](mailto:farzanekram136@gmail.com)
+
 
 
 ## 🌐 Socials:
