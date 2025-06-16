@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-# 💫 About Me:
 🚀 Aspiring Software Engineer aiming for a role at Google (SDE)<br>
 🧠 Currently deepening my knowledge in Python, Data Structures & Algorithms, and System Design<br>
 💻 Passionate about solving real-world problems with clean, scalable code<br>
