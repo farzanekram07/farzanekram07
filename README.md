@@ -1,4 +1,4 @@
-# 🚀 Farzan Ekram
+# 🚀 Syed Mohammad Farzan Ekram
 
 ### Aspiring Software Engineer | Python Developer | Data & Backend Enthusiast
 
