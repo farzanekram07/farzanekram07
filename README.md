@@ -2,9 +2,9 @@
 
 <div align="center">
 
-  <!-- Animated Typing Header -->
+  <!-- Animated Typing Header (Updated Color) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Data+Analyst;FastAPI+%2B+Python+Developer;SQL+%2B+Power+BI+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Engineer;Data+Analyst;FastAPI+%2B+Python+Developer;SQL+%2B+Power+BI+Specialist" alt="Typing SVG" />
   </a>
 
   <!-- Sub Header -->
