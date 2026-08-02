@@ -65,6 +65,25 @@
 <br>
 
 
+
+
+
+
+* **Core Focus:** Margin Variance Analysis, Data Modeling, Financial Storytelling
+
+**Key Highlights:**
+- 📈 Processed **$85.34M in revenue** across 31,465 orders in 6 countries and 3 product categories.
+- 🔍 Uncovered a **2.1% profit margin decline** despite a **12.4% revenue surge**, isolating the cause to product mix imbalances.
+- 📊 Built interactive slicers (Year, Country, Category, Gender) tracking engagement across **18,294 customer records**.
+
+---
+</details>
+
+<details>
+<summary><b>🥗 DATA ANALYTICS | Restaurant Performance & Rating Analysis</b></summary>
+<br>
+
+
 * **Core Focus:** Feature Impact Modeling, Data Wrangling, Interactive Visualizations
 
 **Key Highlights:**
