@@ -69,6 +69,24 @@
 
 
 
+* **Core Focus:** Security, CRUD Architecture, Request Validation, Test Automation
+* **Repository:** [`farzanekram07/task-manager-test-api`](https://github.com/farzanekram07/task-manager-test-api)
+
+**Key Highlights:**
+- 🔒 **Security:** Built JWT authentication featuring per-user task scoping for complete data isolation.
+- 🧪 **Testing:** Developed a 12-test Pytest suite covering authentication workflows, edge cases, and CRUD endpoints.
+- 🐳 **Deployment:** Containerized via Docker with auto-generated Swagger/OpenAPI interactive docs.
+
+---
+</details>
+
+<details>
+<summary><b>📊 DATA ANALYTICS | Bike Sales Performance Dashboard</b></summary>
+<br>
+
+
+
+
 * **Core Focus:** Margin Variance Analysis, Data Modeling, Financial Storytelling
 
 **Key Highlights:**
