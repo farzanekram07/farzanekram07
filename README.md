@@ -1,14 +1,23 @@
 # ⚡ Syed Mohammad Farzan Ekram
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E67F8&center=true&vCenter=true&width=500&lines=Backend+Engineers;Data+Systems;SQL+%26+FastAPI+Developer;Data+Analyst" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/farzan-ekram07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:farzanekram035@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/farzanekram07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Data+Analyst;FastAPI+%2B+Python+Developer;SQL+%2B+Power+BI+Specialist" alt="Typing SVG" />
+  </a>
+
+  <!-- Sub Header -->
+  <p align="center">
+    <b>Backend & Data Engineer | Building production-grade REST APIs, optimizing SQL databases, & modeling high-impact analytical datasets.</b>[cite: 1, 2]
+  </p>
+
+  <!-- Interactive Social Badges -->
+  <a href="https://linkedin.com/in/farzan-ekram07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>[cite: 1, 2]
+  <a href="mailto:farzanekram035@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>[cite: 1, 2]
+  <a href="https://github.com/farzanekram07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>[cite: 1, 2]
+
+</div>
 
 ---
 
@@ -22,12 +31,12 @@
 ### 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />[cite: 1, 2]
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />[cite: 2]
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />[cite: 1]
 </p>
 
 ---
