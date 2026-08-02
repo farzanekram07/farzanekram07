@@ -9,13 +9,13 @@
 
   <!-- Sub Header -->
   <p align="center">
-    <b>Backend & Data Engineer | Building production-grade REST APIs, optimizing SQL databases, & modeling high-impact analytical datasets.</b>[cite: 1, 2]
+    <b>Backend & Data Engineer | Building production-grade REST APIs, optimizing SQL databases, & modeling high-impact analytical datasets.</b>
   </p>
 
   <!-- Interactive Social Badges -->
-  <a href="https://linkedin.com/in/farzan-ekram07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>[cite: 1, 2]
-  <a href="mailto:farzanekram035@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>[cite: 1, 2]
-  <a href="https://github.com/farzanekram07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>[cite: 1, 2]
+  <a href="https://linkedin.com/in/farzan-ekram07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:farzanekram035@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/farzanekram07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -31,12 +31,12 @@
 ### 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />[cite: 1, 2]
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />[cite: 1, 2]
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />[cite: 1, 2]
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />[cite: 2]
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -47,11 +47,11 @@
 <summary><b>⚙️ Backend Engineering Projects (Click to Expand)</b></summary>
 <br>
 
-> **[Task Manager REST API (v2)](https://github.com/farzanekram07/task-manager-test-api)**[cite: 1]  
-> *A secured CRUD REST API engine built with FastAPI, SQLAlchemy, and Docker.*[cite: 1]
-> - 🔐 **Security:** JWT authentication with tenant-isolated user task scoping[cite: 1].
-> - 🧪 **Reliability:** Complete 12-test Pytest suite for edge-case coverage[cite: 1].
-> - 🐳 **DevOps:** Fully containerized with automatic Swagger UI documentation[cite: 1].
+> **[Task Manager REST API (v2)](https://github.com/farzanekram07/task-manager-test-api)**  
+> *A secured CRUD REST API engine built with FastAPI, SQLAlchemy, and Docker.*
+> - 🔐 **Security:** JWT authentication with tenant-isolated user task scoping.
+> - 🧪 **Reliability:** Complete 12-test Pytest suite for edge-case coverage.
+> - 🐳 **DevOps:** Fully containerized with automatic Swagger UI documentation.
 
 </details>
 
@@ -59,15 +59,15 @@
 <summary><b>📊 Data Analytics Projects (Click to Expand)</b></summary>
 <br>
 
-> **Bike Sales Performance Dashboard**[cite: 2]  
-> *Multi-country revenue & margin analytics dashboard.*[cite: 2]
-> - 📈 Analyzed $85.34M in sales data across 31,000+ orders[cite: 2].
-> - 🔍 Isolated product mix imbalances driving a 2.1% profit margin decline[cite: 2].
+> **Bike Sales Performance Dashboard**  
+> *Multi-country revenue & margin analytics dashboard.*
+> - 📈 Analyzed $85.34M in sales data across 31,000+ orders.
+> - 🔍 Isolated product mix imbalances driving a 2.1% profit margin decline.
 
-> **Restaurant Satisfaction Analysis**[cite: 2]  
-> *Data-driven customer behavior and rating insights.*[cite: 2]
-> - 🥗 Evaluated 9,500+ restaurants to map service options against overall rating lifts[cite: 2].
-> - 📊 Uncovered that table booking and online delivery yield 28-36% higher ratings[cite: 2].
+> **Restaurant Satisfaction Analysis**  
+> *Data-driven customer behavior and rating insights.*
+> - 🥗 Evaluated 9,500+ restaurants to map service options against overall rating lifts.
+> - 📊 Uncovered that table booking and online delivery yield 28-36% higher ratings.
 
 </details>
 
@@ -91,7 +91,7 @@
 ### 📝 Recent Activity & Daily Posts
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed new commits to **[task-manager-test-api](https://github.com/farzanekram07/task-manager-test-api)**[cite: 1]
+- 🚀 Pushed new commits to **[task-manager-test-api](https://github.com/farzanekram07/task-manager-test-api)**
 - 📝 Published insights on API authentication workflows & data pipelines
 - 📊 Working on query optimization and SQL performance benchmarks
 <!-- END_SECTION:activity -->
