@@ -1,64 +1,90 @@
-# 🚀 Syed Mohammad Farzan Ekram
+# ⚡ Syed Mohammad Farzan Ekram
 
-### Software Engineer | Backend & Data Systems
-
-I am a Software Engineer based in Dubai, UAE, specializing in SQL-driven backend architectures, RESTful APIs, and data analytics pipelines[cite: 1, 2]. I build high-performance backend endpoints using **Python & FastAPI**, structure efficient relational databases, and perform detailed data analytics using **SQL, Pandas, and Power BI**[cite: 1, 2].
-
-📍 **Location:** Dubai, UAE[cite: 1, 2]  
-📧 **Email:** farzanekram035@gmail.com[cite: 1, 2]  
-💼 **LinkedIn:** [linkedin.com/in/farzan-ekram07](https://linkedin.com/in/farzan-ekram07)[cite: 1, 2]  
-🐙 **GitHub:** [github.com/farzanekram07](https://github.com/farzanekram07)[cite: 1, 2]
-
----
-
-# 🧠 Tech Stack
-
-**Backend Engineering:** Python, FastAPI, REST API Design, CRUD Architecture, JWT Authentication, Swagger/OpenAPI, Pytest, Docker[cite: 1]  
-**Data Analytics & Engineering:** SQL (MySQL, SQLite), Query Optimization, Indexing, Pandas, NumPy, Power BI, Excel (Power Pivot, Pivot Tables)[cite: 1, 2]  
-**DevOps, Tools & Workflows:** Git, GitHub, JIRA, Agile/Scrum, Debugging & Production Support[cite: 1, 2]
-
----
-
-# 📌 Featured Projects
-
-### ⚙️ Backend Engineering
-
-**Task Manager REST API (v2)** | `Python` `FastAPI` `SQLAlchemy` `JWT` `Pytest` `Docker`[cite: 1]  
-[View Repository](https://github.com/farzanekram07/task-manager-test-api)[cite: 1]
-- Developed a robust CRUD REST API with FastAPI, integrating SQLAlchemy and SQLite for persistent storage and automatic request validation across endpoints[cite: 1].
-- Implemented secure JWT-based authentication (register/login) with strict per-user task scoping[cite: 1].
-- Built a comprehensive 12-test Pytest suite covering authentication, CRUD edge cases, and tenant isolation[cite: 1].
-- Containerized the application using Docker and fully documented all endpoints via Swagger/OpenAPI[cite: 1].
-
----
-
-### 📊 Data Analytics
-
-**Bike Sales Performance Dashboard** | `Excel` `Power Pivot` `Pivot Tables` `Data Modeling`[cite: 2]
-- Analyzed 31,465 orders representing $85.34M in revenue across 6 countries and 3 product categories[cite: 2].
-- Uncovered a 2.1% year-over-year profit margin decline despite a 12.4% surge in revenue, tracing the margin concentration directly to product mix disparities[cite: 2].
-- Engineered an interactive Excel dashboard tracking key performance metrics across 18,294 distinct customers[cite: 2].
-
-**Restaurant Performance & Customer Satisfaction Analysis** | `Python` `Pandas` `Plotly`[cite: 2]
-- Evaluated a dataset of 9,551 restaurants and 15.69M votes across 20+ cities to determine how service offerings impact ratings[cite: 2].
-- Quantified performance metrics showing that delivery services correlated with a 28% rating increase, while table-booking options drove a 36% higher rating average[cite: 2].
-- Created interactive Plotly visuals mapping city-wide ratings, cuisine popularity, and volume-to-rating distributions[cite: 2].
-
----
-
-# 💼 Industry Experience Summary
-
-- **Junior Data Analyst** @ Coding Club India *(Jan 2026 – Jun 2026)*[cite: 2]
-  - Engineered 4 Power BI/Excel KPI dashboards to analyze student engagement and course outcomes, ranking in the top 10% of contributors[cite: 2].
-- **Junior Software Engineer** @ Vikas Technologies *(Nov 2023 – Dec 2025)*[cite: 1]
-  - Optimized 20+ complex SQL queries and relational schemas, driving a ~30% retrieval performance gain under peak load[cite: 2].
-  - Refactored transaction validation logic for payment gateways, decreasing failed payment incidents by 15%[cite: 1, 2].
-
----
-
-# 📈 GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E67F8&center=true&vCenter=true&width=500&lines=Backend+Engineers;Data+Systems;SQL+%26+FastAPI+Developer;Data+Analyst" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farzanekram07&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanekram07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://linkedin.com/in/farzan-ekram07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:farzanekram035@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/farzanekram07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+### 💬 Daily Inspiration
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=0d1117&author_color=70a5fd&quote_color=c9d1d9" alt="Daily Quote" />
+</div>
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 🚀 What I'm Building
+
+<details>
+<summary><b>⚙️ Backend Engineering Projects (Click to Expand)</b></summary>
+<br>
+
+> **[Task Manager REST API (v2)](https://github.com/farzanekram07/task-manager-test-api)**[cite: 1]  
+> *A secured CRUD REST API engine built with FastAPI, SQLAlchemy, and Docker.*[cite: 1]
+> - 🔐 **Security:** JWT authentication with tenant-isolated user task scoping[cite: 1].
+> - 🧪 **Reliability:** Complete 12-test Pytest suite for edge-case coverage[cite: 1].
+> - 🐳 **DevOps:** Fully containerized with automatic Swagger UI documentation[cite: 1].
+
+</details>
+
+<details>
+<summary><b>📊 Data Analytics Projects (Click to Expand)</b></summary>
+<br>
+
+> **Bike Sales Performance Dashboard**[cite: 2]  
+> *Multi-country revenue & margin analytics dashboard.*[cite: 2]
+> - 📈 Analyzed $85.34M in sales data across 31,000+ orders[cite: 2].
+> - 🔍 Isolated product mix imbalances driving a 2.1% profit margin decline[cite: 2].
+
+> **Restaurant Satisfaction Analysis**[cite: 2]  
+> *Data-driven customer behavior and rating insights.*[cite: 2]
+> - 🥗 Evaluated 9,500+ restaurants to map service options against overall rating lifts[cite: 2].
+> - 📊 Uncovered that table booking and online delivery yield 28-36% higher ratings[cite: 2].
+
+</details>
+
+---
+
+### 📊 Activity & Live Contribution Tracker
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farzanekram07&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farzanekram07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanekram07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
+</p>
+
+---
+
+### 📝 Recent Activity & Daily Posts
+
+<!-- START_SECTION:activity -->
+- 🚀 Pushed new commits to **[task-manager-test-api](https://github.com/farzanekram07/task-manager-test-api)**[cite: 1]
+- 📝 Published insights on API authentication workflows & data pipelines
+- 📊 Working on query optimization and SQL performance benchmarks
+<!-- END_SECTION:activity -->
+
+*(Tip: You can connect [GitHub Activity Readme Workflow](https://github.com/jamesgeorge007/github-activity-readme) or [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) to automatically update the posts section whenever you publish or commit!)*
