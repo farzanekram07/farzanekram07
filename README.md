@@ -63,3 +63,29 @@
 <details>
 <summary><b>⚙️ BACKEND ENGINEERING | Task Manager REST API (v2)</b></summary>
 <br>
+
+
+* **Core Focus:** Feature Impact Modeling, Data Wrangling, Interactive Visualizations
+
+**Key Highlights:**
+- 💡 Analyzed **9,551 restaurants and 15.69M votes** to map service offerings against satisfaction ratings.
+- 🎯 Discovered that **delivery options correlate with a 28% higher rating** and **table-booking options yield a 36% higher rating**.
+- 🗺️ Identified key under-serviced regions (e.g., Jaipur, Chennai) as primary targets for delivery rollouts.
+
+---
+</details>
+
+---
+
+### 📊 Real-Time GitHub Activity & Metrics
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farzanekram07&theme=tokyonight&hide_border=true&area=true" width="100%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=farzanekram07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanekram07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
+
+</div>
