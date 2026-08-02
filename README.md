@@ -9,7 +9,7 @@
 
   <!-- Sub Header -->
   <p align="center">
-    <b>Backend & Data Engineer | Building production-grade REST APIs, optimizing SQL databases, & modeling high-impact analytical datasets.</b>
+    <b>Backend & Data Analyst| Building production-grade REST APIs, optimizing SQL databases, & modeling high-impact analytical datasets.</b>
   </p>
 
   <!-- Interactive Social Badges -->
