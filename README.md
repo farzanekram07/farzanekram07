@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Data+Analyst;FastAPI+%2B+Python+Developer;SQL+%2B+Power+BI+Specialist" alt="Typing SVG" />
   </a>
 
-  <!-- Bio Summary Line -->
+  <!-- HERE IS YOUR ONE BIO LINE -->
   <p align="center">
     <b>Backend & Data Engineer | Building production-grade REST APIs, optimizing SQL databases, & modeling high-impact analytical datasets.</b>
   </p>
